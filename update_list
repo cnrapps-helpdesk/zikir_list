@@ -2,7 +2,7 @@
 "listeler": [
         {
             "list_id": "1",
-            "url": "https://raw.githubusercontent.com/cnrapps-helpdesk/zikir_list/refs/heads/main/zikirler_1"
+            "file_name": "zikirler_1"
         }
     ]
 }
