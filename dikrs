@@ -1,0 +1,28 @@
+{
+"zikirler": [
+    {
+        "Sira": "1",
+        "Adi": "Mehmet",
+        "Soyadi": "Zohmet",
+        "Yasi": "21"
+    },
+    {
+        "Sira": "2",
+        "Adi": "Ahmet",
+        "Soyadi": "Zahmet",
+        "Yasi": "22"
+    },
+    {
+        "Sira": "3",
+        "Adi": "Rüstem",
+        "Soyadi": "Kestem",
+        "Yasi": "23"
+    },
+    {
+        "Sira": "4",
+        "Adi": "ÜĞİŞÇÖ",
+        "Soyadi": "üğışçö",
+        "Yasi": "24"
+    }
+]
+}
